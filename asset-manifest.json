@@ -1,13 +1,13 @@
 {
-  "main.css": "/saibotlive/web-crawler.git/static/css/main.6e2bf407.chunk.css",
-  "main.js": "/saibotlive/web-crawler.git/static/js/main.75e6db1a.chunk.js",
-  "main.js.map": "/saibotlive/web-crawler.git/static/js/main.75e6db1a.chunk.js.map",
-  "runtime~main.js": "/saibotlive/web-crawler.git/static/js/runtime~main.735379b7.js",
-  "runtime~main.js.map": "/saibotlive/web-crawler.git/static/js/runtime~main.735379b7.js.map",
-  "static/js/2.8fcd551d.chunk.js": "/saibotlive/web-crawler.git/static/js/2.8fcd551d.chunk.js",
-  "static/js/2.8fcd551d.chunk.js.map": "/saibotlive/web-crawler.git/static/js/2.8fcd551d.chunk.js.map",
-  "index.html": "/saibotlive/web-crawler.git/index.html",
-  "precache-manifest.cad9c9c8eb2d057d88b3ab13570635bd.js": "/saibotlive/web-crawler.git/precache-manifest.cad9c9c8eb2d057d88b3ab13570635bd.js",
-  "service-worker.js": "/saibotlive/web-crawler.git/service-worker.js",
-  "static/css/main.6e2bf407.chunk.css.map": "/saibotlive/web-crawler.git/static/css/main.6e2bf407.chunk.css.map"
+  "main.css": "/web-crawler/static/css/main.6e2bf407.chunk.css",
+  "main.js": "/web-crawler/static/js/main.d52b1fad.chunk.js",
+  "main.js.map": "/web-crawler/static/js/main.d52b1fad.chunk.js.map",
+  "runtime~main.js": "/web-crawler/static/js/runtime~main.e4d6a610.js",
+  "runtime~main.js.map": "/web-crawler/static/js/runtime~main.e4d6a610.js.map",
+  "static/js/2.870bad96.chunk.js": "/web-crawler/static/js/2.870bad96.chunk.js",
+  "static/js/2.870bad96.chunk.js.map": "/web-crawler/static/js/2.870bad96.chunk.js.map",
+  "index.html": "/web-crawler/index.html",
+  "precache-manifest.6d27a5c5bf3d767f43e615320b9b417d.js": "/web-crawler/precache-manifest.6d27a5c5bf3d767f43e615320b9b417d.js",
+  "service-worker.js": "/web-crawler/service-worker.js",
+  "static/css/main.6e2bf407.chunk.css.map": "/web-crawler/static/css/main.6e2bf407.chunk.css.map"
 }
