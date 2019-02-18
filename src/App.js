@@ -21,11 +21,11 @@ const App = () => {
   };
 
   const getAllLinks = $ => {
-    const linksObj = $('a[href], img[src]');
-    
+    const linksObj = $('a[href], img[src]');    
     const links = Object.values(linksObj)
       .filter(val => val.attribs)
       .map(link => link.attribs.href || link.attribs.src);
+
     if (links.length > 0) {
       setStatus('Downloaded');
       download('sitemap.json', JSON.stringify(links));
@@ -41,7 +41,6 @@ const App = () => {
 
       getAllLinks($);
     } catch (error) {
-      console.error(error.message);
       setStatus(error.message);
     }
   };
