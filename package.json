@@ -1,5 +1,6 @@
 {
   "name": "web-crawler",
+  "homepage": "https://saibotlive.github.io/web-crawler/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
