@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/web-crawler/precache-manifest.9f3a7c6a358690fc6e634568e08395c1.js"
+  "/saibotlive/web-crawler.git/precache-manifest.cad9c9c8eb2d057d88b3ab13570635bd.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/web-crawler/index.html", {
+workbox.routing.registerNavigationRoute("/saibotlive/web-crawler.git/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
